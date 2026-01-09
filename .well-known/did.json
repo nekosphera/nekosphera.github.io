@@ -8,7 +8,7 @@
       "controller": "did:web:nekosphera.github.io",
       "publicKeyJwk": {
         "kty": "RSA",
-        "n": "…TU_N…",
+        "n": "pg7MqVjIj1G09LR-Sx_bu-ZvvnOvzoyiiYLgQ9wi78Jwsvd2MyK8hJO3BdDRN5FA-9nEk8gqtfQvWQEaEKYQfMUhoAZSP2alGzcs6zVAOgAhKbC-nnqa3puy5atZOGmtsm6A6v-UTQkDspZTi4HXxqPUhBngj_lv_OHWjh0GbhNAgLytVwCpxw_EoG6BP0U54POU9ncz4aAp-q4cCNV6w8RFm2NgUi9oqs_M2U26LGqMsqOt_cW-aV-59WbcXbWXpMtE16O_Yo1xRJo_dqijTBStwuM70LQPvAvYtf1Et1A2NjHjikDkDh8o-cPHraRVj1F3pRsTjidkyRx0ZLAgcw",
         "e": "AQAB",
         "alg": "PS256",
         "x5u": "https://nekosphera.github.io/.well-known/x509CertificateChain.pem"
