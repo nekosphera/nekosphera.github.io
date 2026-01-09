@@ -1,0 +1,17 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:nekosphera.github.io",
+  "verificationMethod": [
+    {
+      "id": "did:web:nekosphera.github.io#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:nekosphera.github.io",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "sXch9e2X1Xy_dummy_public_key_value_for_exam_only"
+      },
+      "x5u": "https://nekosphera.github.io/certs/gaiax.pem"
+    }
+  ]
+}
