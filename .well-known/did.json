@@ -9,9 +9,9 @@
       "publicKeyJwk": {
         "kty": "RSA",
         "n": "xKQLElVmJYKnZ9dmKMWrb4fy4BWFm658EQemS4hJgrt-1NFpL2tGVaFupVyV3vmKorCX3zejc7-gH8Ugpemmj9r5tk1NZ0SXXALTjvT2i03oSqjwCzkn-R1o0TYg-G7PyQ5pE18AE-K3VUcpch1f5RyBTEvE4-HUg4_6OpAIYFVznJ3yk8a-bo1i_HBp2MbtPzssSlT8mPLY76SETtKdwgIdY91MkTiJd1x0KJDM2GPKM7pNTc81NMSw6WBzsxg4PFbR-BCY82_sYu8iMy_AdYcUz72hh2DGXnVypzzV_LLgJ_VAP5m-md0lVH5KIG_cduDrajloLQ4LKJktO4VmwQ",
-        "e": "AQAB"
-      },
-      "x5u": "https://nekosphera.github.io/certs/gaiax.pem"
+        "e": "AQAB",
+        "x5u": "https://nekosphera.github.io/certs/gaiax.pem"
+      }
     }
   ]
 }
